@@ -3,4 +3,4 @@
 In diesem Repository liegt das Lerntool für Muskeln im HG
 
 ## Sonstiges
-&coy;2025 Christopher Schülpen
+&copy;2025 Christopher Schülpen
